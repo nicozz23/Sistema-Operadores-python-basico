@@ -59,6 +59,10 @@ while True:
             for x in range(1,11):
                 n3 = x * n2 ;
                 print('1) ', n2,('x'),x,(': '),   n3) 
+        else:
+            print("")
+            print("**Opcion invalida**")  
+            print("")         
 
     elif opc ==6:
         print("")
